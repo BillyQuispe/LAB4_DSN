@@ -1,0 +1,2 @@
+# Ignorar los directorios node_modules en la raíz del proyecto
+node_modules/
